@@ -1,29 +1,27 @@
 # 👨‍💻 Juan David Rosero
 
-Desarrollador de Software enfocado en el desarrollo de aplicaciones web modernas y escalables.
+Desarrollador de software enfocado en la construcción de aplicaciones web modernas, con experiencia en **Angular, React y desarrollo backend con Python y PHP**.
 
-📍 Medellín, Colombia
+He participado en el desarrollo de **dashboards administrativos, integración de APIs REST y sistemas de automatización para extracción de datos**, trabajando en entornos de desarrollo colaborativos bajo metodologías ágiles como **SCRUM**.
 
----
-
-## 🚀 Sobre mí
-
-Soy desarrollador con experiencia en el desarrollo de aplicaciones empresariales utilizando **Angular, React y Python**.
-
-He trabajado en proyectos que incluyen:
-
-* dashboards administrativos
-* integración de APIs
-* automatización y extracción de datos
-* desarrollo de aplicaciones web completas
-
-Actualmente curso **Ingeniería de Software** mientras continúo fortaleciendo mis habilidades en arquitectura de software y desarrollo fullstack.
+Actualmente me encuentro cursando **Ingeniería de Software**, fortaleciendo mis conocimientos en arquitectura de software, desarrollo fullstack y buenas prácticas de ingeniería.
 
 ---
 
-## 🧠 Tecnologías
+# 🚀 Sobre mí
 
-### Frontend
+* 💻 Desarrollador Frontend especializado en **Angular**
+* 📊 Experiencia desarrollando **dashboards administrativos**
+* 🔗 Integración de **APIs REST**
+* 🤖 Automatización y extracción de datos con **Python**
+* 🧠 Interés en arquitectura de software y desarrollo fullstack
+* 📚 Estudiante de **Ingeniería de Software**
+
+---
+
+# 🧠 Tecnologías
+
+## Frontend
 
 * Angular
 * React
@@ -32,59 +30,98 @@ Actualmente curso **Ingeniería de Software** mientras continúo fortaleciendo m
 * HTML
 * CSS
 
-### Backend
+## Backend
 
 * Python
 * PHP
-* APIs REST
+* Desarrollo de APIs REST
 
-### Bases de datos
+## Bases de datos
 
 * SQL
-* Normalización de datos
+* Diseño y normalización de bases de datos
 
-### Herramientas
+## Herramientas y metodologías
 
 * Git
-* Scrum
+* SCRUM
 * Desarrollo modular
 * Integración de APIs
 
 ---
 
-## 📌 Proyectos Destacados
+# 📌 Experiencia en proyectos
 
-### Plataforma de Gestión de Proyectos
+## Dashboard Administrativo
 
-Aplicación web desarrollada en Angular con backend en Python para la gestión de tareas, proyectos y equipos de trabajo.
+Aplicación web desarrollada para la gestión y visualización de información empresarial mediante paneles interactivos y consultas a bases de datos.
 
----
+Características:
 
-### Dashboard Analítico Empresarial
-
-Sistema de visualización de datos con gráficos interactivos y reportes dinámicos.
-
----
-
-### Sistema de Extracción de Datos
-
-Agentes desarrollados en Python para la recolección y procesamiento automatizado de información desde diferentes fuentes.
+* visualización de datos
+* gestión de información administrativa
+* integración con APIs
+* desarrollo frontend con Angular y React
 
 ---
 
-## 📊 Actividad en GitHub
+## Plataforma de Información para Centros Comerciales
 
-En este perfil encontrarás proyectos relacionados con:
+Sistema web desarrollado con Angular que permite visualizar información relevante de centros comerciales a partir de diferentes fuentes de datos.
+
+Características:
+
+* arquitectura modular
+* componentes reutilizables
+* integración con sistemas de captura de datos
+* procesamiento y visualización de información
+
+---
+
+## Sistemas de Extracción de Datos
+
+Desarrollo de agentes automatizados en Python para la recolección y procesamiento de información desde diferentes fuentes.
+
+Características:
+
+* extracción automatizada de datos
+* procesamiento y estructuración de información
+* integración con sistemas externos
+* automatización de procesos
+
+---
+
+# 📊 En este perfil encontrarás
+
+Repositorios relacionados con:
 
 * desarrollo frontend con Angular
 * dashboards empresariales
-* APIs backend
+* integración de APIs REST
 * automatización y procesamiento de datos
+* aplicaciones web fullstack
 
 ---
 
-## 📫 Contacto
+# 📚 Actualmente aprendiendo
 
-Email: [David1107rosero@gmail.com](mailto:David1107rosero@gmail.com)
-GitHub: https://github.com/Rosero-j11
-Ubicación: Medellín, Colombia
+* Arquitectura de software
+* Buenas prácticas en desarrollo frontend
+* Desarrollo fullstack con Angular y Python
+* Optimización y estructuración de proyectos
+
+---
+
+# 📫 Contacto
+
+📍 Medellín, Colombia
+
+📧 Email: [David1107rosero@gmail.com](mailto:David1107rosero@gmail.com)
+
+💻 GitHub: https://github.com/Rosero-j11
+
+---
+
+# 📈 Objetivo profesional
+
+Continuar desarrollando aplicaciones web escalables y participar en proyectos que requieran soluciones tecnológicas robustas, buenas prácticas de desarrollo y trabajo colaborativo en equipos de ingeniería.
